@@ -1,4 +1,4 @@
-### Hi there, I'm Josh 👋 👨‍💻
+### Hi there, I'm Josh 👋
 
 ## I am a Developer, Dreamer, Friend, and Brother
 
@@ -7,7 +7,7 @@
 - 💪 I'm looking to collaborate with other Software Engineers
 - 👥 2021 goals: join teams and networks of Software Engineers
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I have a dog named Linda 🐕
+- ⚡ Fun fact: I have a dog named Linda
 
 ### Connect with me:
 
