@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="JavaScript" width="22px" src="./javascript.png" />
+<img href="#" align="left" alt="JavaScript" width="22px" src="./javascript.png" />
 
 <br />
 <br />
