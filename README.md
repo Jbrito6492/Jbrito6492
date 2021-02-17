@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 
-<img href="#" align="left" alt="JavaScript" width="22px" src="./javascript.png" />
+[<img href="#" align="left" alt="JavaScript" width="22px" src="./javascript.png" />][logo]
 
 <br />
 <br />
@@ -31,3 +31,4 @@
 [linkedin]: https://linkedin.com/in/jbrito6492
 [instagram]: https://www.instagram.com/jxbri24
 [themove]: https://github.com/Jbrito6492/MVP
+[logo]: #
