@@ -28,6 +28,7 @@
 [<img align="left" alt="Node" width="22px" src="./node.png" />][logo]
 [<img align="left" alt="Git" width="22px" src="./git.png" />][logo]
 [<img align="left" alt="GitHub" width="22px" src="./github.png" />][logo]
+[<img align="left" alt="CommandLine" width="22px" src="./commandline.png" />][logo]
 
 <br />
 <br />
