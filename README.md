@@ -12,11 +12,16 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="./instagram.png"/>][instagram]
+[<img align="left" alt="Instagram" width="22px" src="./instagram.png"/>][instagram]
 
 <br />
 
 ## Languages and Tools:
+
+[<img align="left" alt="Instagram" width="22px" src="./javascript.png"/>][]
+
+<br />
+<br />
 
 ### Personal Projects
 
