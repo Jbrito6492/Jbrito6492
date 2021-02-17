@@ -1,11 +1,11 @@
 <p align="center">
 Visitor Count<br />
-<img alt="Visitor Counter" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
 </p>
 
-### Hi there, I'm Josh 👋
+## Hi there, I'm Josh 👋
 
-## I am a Software Engineer, Dreamer, Friend, and Brother
+### I am a Software Engineer, Dreamer, Friend, and Brother
 
 - 🔭 I'm currently working on numerous personal projects
 - 🌱 I'm currently learning C#
@@ -14,7 +14,7 @@ Visitor Count<br />
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I have a dog named Linda
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.png"/>][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="./assets/instagram.png"/>][instagram]
@@ -22,7 +22,7 @@ Visitor Count<br />
 <br />
 <br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="30px" src="./assets/javascript.png" />][logo]
 [<img align="left" alt="C#" width="30px" src="./assets/csharp.png" />][logo]
