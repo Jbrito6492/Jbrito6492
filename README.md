@@ -1,4 +1,7 @@
-<img align="center" alt="Visitor Counter" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
+<p align="center">
+Visitor Count<br />
+<img alt="Visitor Counter" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
+</p>
 
 ### Hi there, I'm Josh 👋
 
