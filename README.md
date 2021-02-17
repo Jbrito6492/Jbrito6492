@@ -11,15 +11,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://linkedin.com/in/jbrito6492"/>][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
 
 <br />
 
 ## Languages and Tools:
 
-
 ### Personal Projects
-
 
 <br />
 <br />
