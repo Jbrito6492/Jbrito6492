@@ -3,9 +3,7 @@ Visitor Count<br />
 <img alt="Visitor Count" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
 </p>
 
-## Hi there, I'm Josh 👋
-
-### I am a Software Engineer, Dreamer, Friend, and Brother
+### Hi there, I'm Josh 👋
 
 - 🔭 I'm currently working on numerous personal projects
 - 🌱 I'm currently learning C#
