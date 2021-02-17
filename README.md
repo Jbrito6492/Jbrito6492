@@ -18,20 +18,20 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="25px" src="./javascript.png" />][logo]
-[<img align="left" alt="C#" width="25px" src="./csharp.png" />][logo]
-[<img align="left" alt="Python" width="25px" src="./python.png" />][logo]
-[<img align="left" alt="HTML" width="25px" src="./html.png" />][logo]
-[<img align="left" alt="CSS" width="25px" src="./css.png" />][logo]
-[<img align="left" alt="SASS" width="25px" src="./sass.png" />][logo]
-[<img align="left" alt="React" width="25px" src="./react.png" />][logo]
-[<img align="left" alt="Node" width="25px" src="./nodejs.png" />][logo]
-[<img align="left" alt="Git" width="25px" src="./git.png" />][logo]
-[<img align="left" alt="GitHub" width="25px" src="./github.png" />][logo]
-[<img align="left" alt="CommandLine" width="25px" src="./commandline.png" />][logo]
-[<img align="left" alt="MySQL" width="25px" src="./mysql.png" />][logo]
-[<img align="left" alt="MongoDB" width="25px" src="./mongodb.png" />][logo]
-[<img align="left" alt="VisualStudioCode" width="25px" src="./vscode.png" />][logo]
+[<img align="left" alt="JavaScript" width="30px" src="./javascript.png" />][logo]
+[<img align="left" alt="C#" width="30px" src="./csharp.png" />][logo]
+[<img align="left" alt="Python" width="30px" src="./python.png" />][logo]
+[<img align="left" alt="HTML" width="30px" src="./html.png" />][logo]
+[<img align="left" alt="CSS" width="30px" src="./css.png" />][logo]
+[<img align="left" alt="SASS" width="30px" src="./sass.png" />][logo]
+[<img align="left" alt="React" width="30px" src="./react.png" />][logo]
+[<img align="left" alt="Node" width="30px" src="./nodejs.png" />][logo]
+[<img align="left" alt="Git" width="30px" src="./git.png" />][logo]
+[<img align="left" alt="GitHub" width="30px" src="./github.png" />][logo]
+[<img align="left" alt="CommandLine" width="30px" src="./commandline.png" />][logo]
+[<img align="left" alt="MySQL" width="30px" src="./mysql.png" />][logo]
+[<img align="left" alt="MongoDB" width="30px" src="./mongodb.png" />][logo]
+[<img align="left" alt="VisualStudioCode" width="30px" src="./vscode.png" />][logo]
 
 <br />
 <br />
