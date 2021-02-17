@@ -1,3 +1,5 @@
+<img align="center" alt="Visitor Counter" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
+
 ### Hi there, I'm Josh 👋
 
 ## I am a Software Engineer, Dreamer, Friend, and Brother
