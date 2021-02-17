@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Instagram" width="22px" src="./javascript.png"/>][]
+<img align="left" alt="JavaScript" width="22px" src="./javascript.png" />
 
 <br />
 <br />
