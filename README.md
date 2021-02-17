@@ -29,6 +29,8 @@
 [<img align="left" alt="Git" width="25px" src="./git.png" />][logo]
 [<img align="left" alt="GitHub" width="25px" src="./github.png" />][logo]
 [<img align="left" alt="CommandLine" width="25px" src="./commandline.png" />][logo]
+[<img align="left" alt="MySQL" width="25px" src="./mysql.png" />][logo]
+[<img align="left" alt="MongoDB" width="25px" src="./mongodb.png" />][logo]
 [<img align="left" alt="VisualStudioCode" width="25px" src="./vscode.png" />][logo]
 
 <br />
