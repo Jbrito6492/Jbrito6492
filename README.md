@@ -15,9 +15,11 @@
 
 <br />
 
-## Personal Projects
+## Languages and Tools:
 
-[themove]
+
+### Personal Projects
+
 
 <br />
 <br />
