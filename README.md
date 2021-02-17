@@ -18,17 +18,17 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="22px" src="./javascript.png" />][logo]
-[<img align="left" alt="C#" width="22px" src="./csharp.png" />][logo]
-[<img align="left" alt="Python" width="22px" src="./python.png" />][logo]
-[<img align="left" alt="HTML" width="22px" src="./html.png" />][logo]
-[<img align="left" alt="CSS" width="22px" src="./css.png" />][logo]
-[<img align="left" alt="SASS" width="22px" src="./sass.png" />][logo]
-[<img align="left" alt="React" width="22px" src="./react.png" />][logo]
-[<img align="left" alt="Node" width="22px" src="./nodejs.png" />][logo]
-[<img align="left" alt="Git" width="22px" src="./git.png" />][logo]
-[<img align="left" alt="GitHub" width="22px" src="./github.png" />][logo]
-[<img align="left" alt="CommandLine" width="22px" src="./commandline.png" />][logo]
+[<img align="left" alt="JavaScript" width="25px" src="./javascript.png" />][logo]
+[<img align="left" alt="C#" width="25px" src="./csharp.png" />][logo]
+[<img align="left" alt="Python" width="25px" src="./python.png" />][logo]
+[<img align="left" alt="HTML" width="25px" src="./html.png" />][logo]
+[<img align="left" alt="CSS" width="25px" src="./css.png" />][logo]
+[<img align="left" alt="SASS" width="25px" src="./sass.png" />][logo]
+[<img align="left" alt="React" width="25px" src="./react.png" />][logo]
+[<img align="left" alt="Node" width="25px" src="./nodejs.png" />][logo]
+[<img align="left" alt="Git" width="25px" src="./git.png" />][logo]
+[<img align="left" alt="GitHub" width="25px" src="./github.png" />][logo]
+[<img align="left" alt="CommandLine" width="25px" src="./commandline.png" />][logo]
 
 <br />
 <br />
