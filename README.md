@@ -19,6 +19,8 @@
 ## Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="22px" src="./javascript.png" />][logo]
+[<img align="left" alt="C#" width="22px" src="./c#.png" />][logo]
+[<img align="left" alt="Python" width="22px" src="./python.png" />][logo]
 [<img align="left" alt="HTML" width="22px" src="./html.png" />][logo]
 [<img align="left" alt="CSS" width="22px" src="./css.png" />][logo]
 [<img align="left" alt="SASS" width="22px" src="./sass.png" />][logo]
