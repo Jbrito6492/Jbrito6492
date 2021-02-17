@@ -1,4 +1,4 @@
-### Hi there, I'm Josh 👋
+### Hi there, I'm Josh 👋 👨‍💻
 
 ## I am a Developer, Dreamer, Friend, and Brother
 
@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="./linkedin.png"/>][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="./instagram.png"/>][instagram]
 
 <br />
 
@@ -23,4 +24,5 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/jbrito6492
+[instagram]: https://www.instagram.com/jxbri24
 [themove]: https://github.com/Jbrito6492/MVP
