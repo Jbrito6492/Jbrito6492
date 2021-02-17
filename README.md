@@ -15,6 +15,7 @@
 [<img align="left" alt="Instagram" width="22px" src="./assets/instagram.png"/>][instagram]
 
 <br />
+<br />
 
 ## Languages and Tools:
 
@@ -34,10 +35,6 @@
 [<img align="left" alt="VisualStudioCode" width="30px" src="./assets/vscode.png" />][logo]
 
 <br />
-<br />
-
-### Personal Projects
-
 <br />
 
 ---
