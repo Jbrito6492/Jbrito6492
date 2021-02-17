@@ -24,6 +24,8 @@
 [<img align="left" alt="HTML" width="22px" src="./html.png" />][logo]
 [<img align="left" alt="CSS" width="22px" src="./css.png" />][logo]
 [<img align="left" alt="SASS" width="22px" src="./sass.png" />][logo]
+[<img align="left" alt="React" width="22px" src="./react.png" />][logo]
+[<img align="left" alt="Node" width="22px" src="./node.png" />][logo]
 
 <br />
 <br />
