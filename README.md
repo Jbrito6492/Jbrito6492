@@ -18,7 +18,9 @@
 
 ## Languages and Tools:
 
-[<img href="#" align="left" alt="JavaScript" width="22px" src="./javascript.png" />][logo]
+[<img align="left" alt="JavaScript" width="22px" src="./javascript.png" />][logo]
+[<img align="left" alt="HTML" width="22px" src="./html.png" />][logo]
+[<img align="left" alt="CSS" width="22px" src="./css.png" />][logo]
 
 <br />
 <br />
