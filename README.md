@@ -1,6 +1,6 @@
 ### Hi there, I'm Josh 👋
 
-## I am a Developer, Dreamer, Friend, and Brother
+## I am a Software Engineer, Dreamer, Friend, and Brother
 
 - 🔭 I'm currently working on numerous personal projects
 - 🌱 I'm currently learning C#
