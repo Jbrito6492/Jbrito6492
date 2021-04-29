@@ -15,7 +15,6 @@ Visitor Count<br />
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.png"/>][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="./assets/instagram.png"/>][instagram]
 
 <br />
 <br />
