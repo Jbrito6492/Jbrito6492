@@ -6,7 +6,7 @@ Visitor Count<br />
 ### Hi there, I'm Josh 👋
 
 - 🔭 I'm currently working on numerous personal projects
-- 🌱 I'm currently learning C#
+- 🌱 I'm currently learning Rust
 - 💪 I'm looking to collaborate with other Software Engineers
 - 👥 2021 goals: join teams and networks of Software Engineers
 - 💬 Ask me about anything!
