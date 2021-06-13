@@ -22,7 +22,6 @@ Visitor Count<br />
 ### Languages and Tools:
 
 [<img align="left" alt="JavaScript" width="30px" src="./assets/javascript.png" />][logo]
-[<img align="left" alt="C#" width="30px" src="./assets/csharp.png" />][logo]
 [<img align="left" alt="Python" width="30px" src="./assets/python.png" />][logo]
 [<img align="left" alt="HTML" width="30px" src="./assets/html.png" />][logo]
 [<img align="left" alt="CSS" width="30px" src="./assets/css.png" />][logo]
