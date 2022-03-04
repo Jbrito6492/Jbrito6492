@@ -38,8 +38,7 @@ Visitor Count<br />
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ## Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
