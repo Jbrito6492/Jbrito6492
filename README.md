@@ -37,8 +37,8 @@ Visitor Count<br />
 <br />
 
 ---
-
-<img align="left" alt="jbrito6492's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jbrito6492&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img align="left" alt="jbrito6492's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jbrito6492&show_icons=true&hide_border=true" /> -->
 <img align="left" alt="jbrito6492's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&show_icons=true&hide_border=true" />
 
 <!-- ## Latest Blog Posts -->
