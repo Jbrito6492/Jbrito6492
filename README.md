@@ -18,11 +18,8 @@ Visitor Count<br />
 <br />
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbrito6492&repo=github-readme-stats" />
-</a>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats) { width: 200px; }
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) { width: 200px; }
 ---
 
 ### Languages and Tools:
