@@ -8,9 +8,8 @@ Visitor Count<br />
 ### Hi there, I'm Josh 👋
 
 - 💪 I'm looking to collaborate with other Software Engineers
-- 👥 2021 goals: join teams and networks of Software Engineers
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I have a dog named Linda
+- 👥 2022 goals: join teams and networks of Software Engineers
+- ⚡ Fun fact: I am a dog dad to a beatiful dog Linda
 
 ## Connect with me:
 
