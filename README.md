@@ -20,6 +20,8 @@ Visitor Count<br />
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrito6492)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 
