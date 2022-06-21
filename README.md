@@ -1,6 +1,6 @@
 <p align="center">
 Visitor Count<br />
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/jbrito6492/count.svg" />
+![](https://komarev.com/ghpvc/?username=jbrito6492)
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jbrito6492)](https://github.com/ryo-ma/github-profile-trophy)
