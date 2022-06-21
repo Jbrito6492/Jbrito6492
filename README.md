@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=jbrito6492)
+[![counter](https://komarev.com/ghpvc/?username=jbrito6492)]
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jbrito6492)](https://github.com/ryo-ma/github-profile-trophy)
