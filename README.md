@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Rails and Python**
+- 💬 Ask me about **Rails, Python, JavaScript, and InfoSec**
 
 - 📫 How to reach me **jbrito6492@gmail.com**
 
