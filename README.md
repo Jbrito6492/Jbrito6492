@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A student of Python, Ruby, C# and JavaScript.</h3>
+<h3 align="center">A student of Python, Ruby, C# and C</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbrito6492&label=Profile%20views&color=0e75b6&style=flat" alt="jbrito6492" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Rails, Python, JavaScript, and InfoSec**
+- 💬 Ask me about **Rails, Python, Ruby, AI, and InfoSec**
 
 - 📫 How to reach me **jbrito6492@gmail.com**
 
