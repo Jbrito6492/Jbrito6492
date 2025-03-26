@@ -1,74 +1,100 @@
-<h1 align="center">Hi there, I'm Josh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World, I'm Josh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <i>A student of Python, Ruby, C#, and C, always eager to learn and explore new horizons.</i>
+  <a href="https://linkedin.com/in/jbrito6492"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:jbrito6492@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jbrito6492&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
+<p align="center">
+  <i>Polyglot programmer crafting elegant solutions with Python, Ruby, and C.<br>
+  Machine learning enthusiast by day, problem solver by night.</i>
+</p>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jbrito6492&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue" alt="Open Source Enthusiast" />
-  <img src="https://img.shields.io/badge/AI-Lover-ff69b4" alt="AI Lover" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=jbrito6492&cc=282a36&tc=ff79c6&ic=bd93f9&bc=dddddd" alt="GitHub Stats" />
 </div>
 
----
+## 💻 &nbsp;Tech Arsenal
 
-<h2 align="center">🚀 About Me</h2>
+```python
+class JoshBrito:
+    def __init__(self):
+        self.name = "Josh Brito"
+        self.roles = ["Software Engineer", "Open Source Contributor"]
+        self.languages = {
+            "proficient": ["Python", "Ruby", "C"],
+            "learning": ["C"],
+            "interested": ["Machine Learning", "Large Language Models"]
+        }
+        self.frameworks = ["Rails", "Django"]
+        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.devops = ["Docker", "AWS", "Linux"]
+        self.interests = ["AI", "InfoSec", "Open Source"]
+        self.dog = {"name": "Linda", "role": "Chief Debugging Officer", "skills": ["Rubber duck debugging", "Moral support"]}
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = JoshBrito()
+me.say_hi()
+```
+
+## 🚀 &nbsp;Current Focus
+
+- Diving deep into **C** and exploring lower-level programming
+- Contributing to open source projects with real-world impact
+- Exploring Machine Learning and Large Language Models applications
+- Strengthening security practices in web applications
+
+## 📈 &nbsp;GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrito6492&theme=tokyonight&hide_border=true&background=1A1B27" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🛠️ &nbsp;Tools of the Trade
+
 <p align="center">
-  - 🌱 I’m currently learning <strong>C</strong> and diving into the depths of systems programming.<br>
-  - 👯 I’m looking to collaborate on <strong>open source projects</strong> that make a real impact.<br>
-  - 💬 Ask me about <strong>Rails, Python, Ruby, AI, and InfoSec</strong>.<br>
-  - 📫 How to reach me: <a href="mailto:jbrito6492@gmail.com"><strong>jbrito6492@gmail.com</strong></a><br>
-  - ⚡ Fun fact: I have a beautiful dog named <strong>Linda</strong> 🐕 who loves to sit by my side while I code!
+  <img src="https://skillicons.dev/icons?i=python,ruby,c,cs,rails,django,html,css,js,nodejs,react,postgresql,mysql,linux,docker,aws" alt="Skills" />
 </p>
+
+## 🏆 &nbsp;GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jbrito6492&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+</p>
+
+## 💬 &nbsp;Ask Me About...
+
+- Building scalable applications with **Rails** and **Python**
+- Tips for efficient database design and optimization
+- Balancing security with user experience
+- The adventures of **Linda**, my four-legged coding companion 🐕
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding GIF">
 </div>
 
----
+## ✨ &nbsp;Weekly Coding Wisdom
 
-<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/jbrito6492" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<hr>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,c,cs,rails,django,html,css,js,nodejs,react,postgresql,mysql,linux,docker,aws" alt="Skills" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbrito6492&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbrito6492&theme=radical" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jbrito6492&theme=onestar&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🎨 Fun Extras</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+  <i>When I'm not coding, you can find me exploring new technologies, contributing to the open source community, or taking Linda for a walk to debug my thoughts.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Joke of the Day" />
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by! Feel free to explore and connect!</i> <br><br>
   <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="200">
 </p>
 
+<p align="center">
+  <i>Let's connect and build something impactful together!</i>
+</p>
