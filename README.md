@@ -51,10 +51,13 @@ me.say_hi()
 
 ## 📈 &nbsp;GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrito6492&theme=tokyonight&hide_border=true&background=1A1B27" alt="Streak Stats" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+</p>
 
 ## 🛠️ &nbsp;Tools of the Trade
 
@@ -88,7 +91,7 @@ me.say_hi()
 <hr>
 
 <p align="center">
-  <i>When I'm not coding, you can find me exploring new technologies, contributing to the open source community, or taking Linda for a walk to debug my thoughts.</i>
+  <i>When I'm not coding, you can find me exploring new technologies, contributing to the open-source community, or taking Linda for a walk to debug my thoughts.</i>
 </p>
 
 <p align="center">
