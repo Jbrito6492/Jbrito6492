@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Polyglot programmer crafting elegant solutions with Python, Ruby, and C.<br>
+  <i>Polyglot programmer crafting elegant solutions with Python, Ruby, and JavaScript.<br>
   Machine learning enthusiast by day, problem solver by night.</i>
 </p>
 
