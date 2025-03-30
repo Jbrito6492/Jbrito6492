@@ -25,7 +25,7 @@ class JoshBrito:
         self.name = "Josh Brito"
         self.roles = ["Software Engineer", "Open Source Contributor"]
         self.languages = {
-            "proficient": ["Python", "Ruby", "C"],
+            "proficient": ["Python", "Ruby", "JavaScript"],
             "learning": ["C"],
             "interested": ["Machine Learning", "Large Language Models"]
         }
