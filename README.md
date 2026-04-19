@@ -27,23 +27,26 @@ I care about clean architecture, thoughtful product decisions, and writing code 
 
 ## What I Work With
 
-```ruby
-module JoshBrito
-  STACK = {
-    languages: ["Ruby", "Python", "JavaScript"],
-    frameworks: ["Rails", "Django", "React"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
-    tools: ["Docker", "AWS", "Linux", "Git"],
-    interests: ["AI", "LLMs", "InfoSec", "Developer Tools"]
-  }
+```python
+class JoshBrito:
+    stack = {
+        "languages": ["Python", "Ruby", "JavaScript"],
+        "frameworks": ["Rails", "Django", "React"],
+        "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+        "tools": ["Docker", "AWS", "Linux", "Git"],
+        "interests": ["AI", "LLMs", "InfoSec", "Developer Tools"],
+    }
 
-  CURRENT_FOCUS = [
-    "Building AI-assisted applications",
-    "Strengthening backend architecture and system design",
-    "Improving security practices in web applications",
-    "Designing practical products with strong backend foundations"
-  ]
-end
+    current_focus = [
+        "Building AI-assisted applications",
+        "Strengthening backend architecture and system design",
+        "Improving security practices in web applications",
+        "Designing practical products with strong backend foundations",
+    ]
+
+    @staticmethod
+    def say_hi():
+        return "Thanks for dropping by. Let's build something useful."
 ```
 
 ---
@@ -69,7 +72,7 @@ end
 ## Tools of the Trade
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,python,django,js,react,postgresql,mysql,linux,docker,aws,git" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,rails,django,js,react,postgresql,mysql,linux,docker,aws,git" alt="Skills" />
 </p>
 
 ---
