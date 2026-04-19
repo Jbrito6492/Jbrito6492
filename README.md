@@ -1,103 +1,108 @@
-<h1 align="center">Hello World, I'm Josh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey, I'm Josh 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jbrito6492"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:jbrito6492@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jbrito6492&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/jbrito6492">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jbrito6492@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Polyglot programmer crafting elegant solutions with Python, Ruby, and JavaScript.<br>
-  Machine learning enthusiast by day, problem solver by night.</i>
+  <i>Senior software engineer focused on Rails, Python, AI-assisted applications, and secure backend systems.</i>
 </p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=jbrito6492&cc=282a36&tc=ff79c6&ic=bd93f9&bc=dddddd" alt="GitHub Stats" />
-</div>
+## About Me
 
-## 💻 &nbsp;Tech Arsenal
+I'm a software engineer who enjoys building practical, well-designed systems that solve real problems.
 
-```python
-class JoshBrito:
-    def __init__(self):
-        self.name = "Josh Brito"
-        self.roles = ["Software Engineer", "Open Source Contributor"]
-        self.languages = {
-            "proficient": ["Python", "Ruby", "JavaScript"],
-            "learning": ["C"],
-            "interested": ["Machine Learning", "Large Language Models"]
-        }
-        self.frameworks = ["Rails", "Django"]
-        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
-        self.devops = ["Docker", "AWS", "Linux"]
-        self.interests = ["AI", "InfoSec", "Open Source"]
-        self.dog = {"name": "Linda", "role": "Chief Debugging Officer", "skills": ["Rubber duck debugging", "Moral support"]}
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+Most of my professional work is in **Ruby on Rails**, but I also work with **Python**, **JavaScript**, relational databases, APIs, cloud infrastructure, and developer tooling. Lately, I've been going deeper into **AI applications**, **LLM-powered workflows**, and **security-conscious web development**.
 
-me = JoshBrito()
-me.say_hi()
+I care about clean architecture, thoughtful product decisions, and writing code that future engineers do not curse under their breath.
+
+---
+
+## What I Work With
+
+```ruby
+module JoshBrito
+  STACK = {
+    languages: ["Ruby", "Python", "JavaScript"],
+    frameworks: ["Rails", "Django", "React"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    tools: ["Docker", "AWS", "Linux", "Git"],
+    interests: ["AI", "LLMs", "InfoSec", "Developer Tools"]
+  }
+
+  CURRENT_FOCUS = [
+    "Building AI-assisted applications",
+    "Strengthening backend architecture and system design",
+    "Improving security practices in web applications",
+    "Designing practical products with strong backend foundations"
+  ]
+end
 ```
 
-## 🚀 &nbsp;Current Focus
+---
 
-- Diving deep into **C** and exploring lower-level programming
-- Contributing to open source projects with real-world impact
-- Exploring Machine Learning and Large Language Models applications
-- Strengthening security practices in web applications
+## Current Focus
 
-## 📈 &nbsp;GitHub Analytics
+- Building AI-assisted products with practical user value
+- Strengthening backend architecture and system design
+- Exploring security, automation, and LLM-powered developer workflows
+- Designing practical products with strong backend foundations
+
+---
+
+## Featured Interests
+
+- **Rails engineering** — APIs, service objects, background jobs, testing, and database design
+- **Python systems** — automation, AI workflows, backend services, and data processing
+- **AI applications** — LLM tooling, agent workflows, vision APIs, and user-facing AI products
+- **Security-minded development** — safer web apps, better threat awareness, and practical defensive habits
+
+---
+
+## Tools of the Trade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrito6492&theme=tokyonight&hide_border=true&background=1A1B27" alt="Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,django,js,react,postgresql,mysql,linux,docker,aws,git" alt="Skills" />
 </p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrito6492&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🛠️ &nbsp;Tools of the Trade
+---
+
+## Ask Me About
+
+- Building scalable applications with **Ruby on Rails**
+- Designing clean backend APIs and database models
+- Testing, refactoring, and making legacy code less painful
+- AI-assisted software products and LLM workflows
+- Linux, developer tooling, and practical automation
+- Life with high-drive dogs: Linda, Pepito, and the lessons Maverick left behind
+
+---
+
+## Beyond Code
+
+Outside of software, I spend a lot of time training, walking, and getting humbled by my dogs.
+
+Linda has been my steady four-legged companion and Chief Debugging Officer. Pepito, my Belgian Malinois, keeps me sharp, active, and honest.
+
+Maverick, my soul dog, passed away, but his impact is still with me. He reminds me to live with more courage, loyalty, and presence.
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,c,cs,rails,django,html,css,js,nodejs,react,postgresql,mysql,linux,docker,aws" alt="Skills" />
-</p>
-
-## 🏆 &nbsp;GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbrito6492&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-</p>
-
-## 💬 &nbsp;Ask Me About...
-
-- Building scalable applications with **Rails** and **Python**
-- Tips for efficient database design and optimization
-- Balancing security with user experience
-- The adventures of **Linda**, my four-legged coding companion 🐕
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding GIF">
-</div>
-
-## ✨ &nbsp;Weekly Coding Wisdom
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</p>
-
-<hr>
-
-<p align="center">
-  <i>When I'm not coding, you can find me exploring new technologies, contributing to the open-source community, or taking Linda for a walk to debug my thoughts.</i>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <i>Let's connect and build something impactful together!</i>
+  <i>Always building. Always learning. Trying to make software that is useful, durable, and a little less annoying.</i>
 </p>
